@@ -1,7 +1,7 @@
 spring:
   #数据源
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/spring?serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://192.168.1.144:3306/spring?serverTimezone=Asia/Shanghai
     username: root
     password: Aimer
     driver-class-name: com.mysql.cj.jdbc.Driver
