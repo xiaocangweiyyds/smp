@@ -27,7 +27,7 @@
 
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
-            <th>id</th>
+            <th>ID</th>
             <th>头像</th>
             <th>名称</th>
             <th>性别</th>
