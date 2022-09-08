@@ -25,11 +25,9 @@
     <input type="submit" value="上传"/>
 </form>
 
-<p1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p1>
-
     <table border="1" cellpadding="10" cellspacing="0">
         <tr>
-            <th><p1>ID</p1></th>
+            <th>id</th>
             <th>头像</th>
             <th>名称</th>
             <th>性别</th>
