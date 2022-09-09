@@ -16,6 +16,7 @@ spring:
     hiddenmethod:
       filter:
         enabled: true
+    static-path-pattern: /static/**
 
   servlet:
     multipart:

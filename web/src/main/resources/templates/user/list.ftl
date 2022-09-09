@@ -59,5 +59,7 @@
 <br/>
 <a href="/templates/user/users">添加</a>
 
+<#include "sakana.ftl" />
+
 </body>
 </html>
